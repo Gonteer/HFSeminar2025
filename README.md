@@ -1,7 +1,8 @@
 ## 한국주택금융공사 2025년도 제3차 디지털전환교육(Python) 2025.06.18
 
 :open_book: 강의 자료
-- https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/Ea48LOOpGK9PnwIwXmay40UBDWfmM-qzFlM-PdaahfEqIQ?e=3MdUlh
+- Python 기초 : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/Eer5j7Bdo5hFu2qtpmgRf1cBGwln-hfOJ-CMY9OnI_Dyxg?e=aPY4Cs
+- 판다스, 머신러닝 : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/Ea48LOOpGK9PnwIwXmay40UBDWfmM-qzFlM-PdaahfEqIQ?e=3MdUlh
 
 
 :heart: pip로 실습 예제 실행할때 필요한 라이브러리 모두 설치하기
